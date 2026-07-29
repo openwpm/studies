@@ -1,6 +1,6 @@
 # Studies using OpenWPM
 
-As of July 2026 OpenWPM has been used in 143 studies.
+As of July 2026 OpenWPM has been used in 142 studies.
 
 Year | Venue | Study
 -----|-------|------
@@ -55,7 +55,6 @@ Year | Venue | Study
 2019 | ESORICS | [Fingerprint surface-based detection of web bot detectors](http://www.open.ou.nl/hjo/papers/ESORICS19.pdf)
 2019 | DPM | [A Study on Subject Data Access in Online Advertising after the GDPR](https://www.researchgate.net/profile/Tobias_Urban2/publication/334706961_A_Study_on_Subject_Data_Access_in_Online_Advertising_after_the_GDPR/links/5d47eff492851cd046a26e5b/A-Study-on-Subject-Data-Access-in-Online-Advertising-after-the-GDPR.pdf)
 2019 | IEEE SPW | [After GDPR, Still Tracking or Not? Understanding Opt-Out States for Online Behavioral Advertising](https://ieeexplore.ieee.org/document/8844599)
-2019 | ACM CCS | [Oh, the Places You’ve Been! User Reactions to Longitudinal Transparency About Third-Party Web Tracking and Inferencing](https://www.blaseur.com/papers/ccs19-trackingtransparency.pdf)
 2020 | PETS | [Missed by Filter Lists: Detecting Unknown Third-Party Trackers with Invisible Pixels](https://www.petsymposium.org/2020/files/papers/issue2/popets-2020-0038.pdf)
 2020 | PETS | [Inferring Tracker-Advertiser Relationships in the Online Advertising Ecosystem using Header Bidding](https://www.petsymposium.org/2020/files/papers/issue1/popets-2020-0005.pdf)
 2020 | PETS | [A Comparative Measurement Study of Web Tracking on Mobile and Desktop Environments](https://petsymposium.org/2020/files/papers/issue2/popets-2020-0016.pdf)
@@ -76,8 +75,6 @@ Year | Venue | Study
 2020 | TMA | [Clash of the Trackers: Measuring the Evolution of the Online Tracking Ecosystem](https://tma.ifip.org/2020/wp-content/uploads/sites/9/2020/06/tma2020-camera-paper36.pdf)
 2020 | WEIS | [The Impact of the GDPR on Content Providers](https://weis2020.econinfosec.org/wp-content/uploads/sites/8/2020/06/weis20-final43.pdf)
 2020 | PhD Thesis, University of Michigan | [Enhancing System Transparency, Trust, and Privacy with Internet Measurement](https://benvds.com/papers/dissertation.pdf)
-2020 | WWW | [Improving Web Content Blocking With Event-Loop-Turn Granularity JavaScript Signatures](https://arxiv.org/pdf/2005.11910)
-2020 | Preprint | [There's No Trick, It's Just a Simple Trick: A Web-Compat and Privacy Improving Approach to Third-party Web Storage](https://arxiv.org/pdf/2011.01267)
 2020 | Preprint | [Tracking Measurement Obfuscations from SourceURL](https://arxiv.org/pdf/2005.10392)
 2020 | UG Thesis | [Measuring the Cookie-Setting Behaviour of Web Pages Showing Privacy Warnings](https://project-archive.inf.ed.ac.uk/ug4/20201889/ug4_proj.pdf)
 2020 | Masters Thesis, Concordia University | [A Large-Scale Evaluation of Privacy Practices of Public WiFi Captive Portals](https://users.encs.concordia.ca/~mmannan/student-resources/Thesis-MASc-AliSuzan-2020.pdf)
