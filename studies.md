@@ -1,6 +1,6 @@
 # Studies using OpenWPM
 
-As of July 2026 OpenWPM has been used in 144 studies.
+As of July 2026 OpenWPM has been used in 143 studies.
 
 Year | Venue | Study
 -----|-------|------
@@ -89,8 +89,7 @@ Year | Venue | Study
 2021 | IFIP SEC | [Accept All: The Landscape of Cookie Banners in Greece and the UK](https://arxiv.org/pdf/2104.05750)
 2021 | ICWSM | [Under the Spotlight: Web Tracking in Indian Partisan News Websites](https://arxiv.org/pdf/2102.03656)
 2021 | ACM WebSci | [Differential Tracking Across Topical Webpages of Indian News Media](https://arxiv.org/pdf/2103.04442)
-2021 | PoPETS | [The CNAME of the Game: Large-scale Analysis of DNS-based Tracking Evasion](https://arxiv.org/pdf/2102.09301)
-2021 | PoPETS | [A Calculus of Tracking: Theory and Practice](https://www.petsymposium.org/2021/files/papers/issue2/popets-2021-0027.pdf)
+2021 | PETS | [A Calculus of Tracking: Theory and Practice](https://www.petsymposium.org/2021/files/papers/issue2/popets-2021-0027.pdf)
 2021 | WPES | [Cookie Banners, What’s the Purpose? Analyzing Cookie Banner Text Through a Legal Lens](https://arxiv.org/pdf/2110.02597)
 2021 | WWW | [Towards Realistic and Reproducible Web Crawl Measurements](https://www.doc.ic.ac.uk/~livshits/papers/pdf/www21a.pdf)
 2021 | PhD Dissertation, Princeton University | [Identifying and Measuring Manipulative User Interfaces at Scale on the Web](https://dataspace.princeton.edu/handle/88435/dsp012f75rc09f)
@@ -122,7 +121,7 @@ Year | Venue | Study
 2023 | PETS | [Privacy Rarely Considered: Exploring Considerations in the Adoption of Third-Party Services by Websites](https://petsymposium.org/popets/2023/popets-2023-0002.pdf)
 2023 | PETS | [Evaluating practical QUIC website fingerprinting defenses for the masses](https://petsymposium.org/popets/2023/popets-2023-0099.pdf)
 2023 | PETS | [Comparing Large-Scale Privacy and Security Notifications](https://swag.cispa.saarland/papers/utz2023notifications.pdf)
-2023 | PoPETS | [This is not the padding you are looking for! On the ineffectiveness of QUIC PADDING against website fingerprinting](https://arxiv.org/pdf/2203.07806)
+2023 | PETS | [Evaluating practical QUIC website fingerprinting defenses for the masses](https://petsymposium.org/popets/2023/popets-2023-0099.pdf)
 2023 | NordSec | [No Place to Hide: Privacy Exposure in Anti-Stalkerware Apps and Support Websites](http://users.encs.concordia.ca/~mmannan/publications/IPV-helper-privacy-Nordsec2023.pdf)
 2023 | Master's Thesis, Radboud University | [leak-detect: Automatic login form leakage detection for website administrators and researchers](https://www.cs.ru.nl/masters-theses/2023/S_Wallis_de_Vries___Leak-detect:_automatic_login_form_leakage_detection_for_website_administrators_and_researchers.pdf)
 2023 | PAM | [Exploring the Cookieverse: A Multi-Perspective Analysis of Web Cookies](https://arxiv.org/pdf/2302.05353)
