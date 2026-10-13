@@ -4,10 +4,10 @@ As of October 2020 OpenWPM has been used in 74 studies.
 
 Year | Venue | Study
 -----|-------|------
-2014 | ACM CCS | [The Web Never Forgets: Persistent Tracking Mechanisms in the Wild](https://securehomes.esat.kuleuven.be/~gacar/persistent/)
+2014 | ACM CCS | [The Web Never Forgets: Persistent Tracking Mechanisms in the Wild](https://doi.org/10.1145/2660267.2660347) ([preprint](https://web.archive.org/web/20250601131725/https://securehomes.esat.kuleuven.be/~gacar/persistent/the_web_never_forgets.pdf))
 2014 | ACM CoSN | [Cognitive disconnect: Understanding Facebook Connect login permissions](http://cosn.acm.org/2014/files/cosn040f-robinsonA.pdf)
 2015 | WWW | [Cookies that give you away: The surveillance implications of web tracking](http://senglehardt.com/papers/www15_cookie_surveil.pdf)
-2015 | NDSS | [Upgrading HTTPS in midair: HSTS and key pinning in practice](https://www.internetsociety.org/sites/default/files/Upgrading%20HTTPS%20in%20Mid-Air-%20An%20Empirical%20Study%20of%20Strict%20Transport%20Security%20and%20Key%20Pinning.pdf)
+2015 | NDSS | [Upgrading HTTPS in midair: HSTS and key pinning in practice](https://doi.org/10.14722/ndss.2015.23162)
 2015 | Tech Science | [Web privacy census](http://techscience.org/a/2015121502/)
 2015 | W2SP | [Variations in tracking in relation to geographic location](http://www.ieee-security.org/TC/SPW2015/W2SP/papers/W2SP_2015_submission_20.pdf)
 2016 | IFIP AICT | [Evaluating Websites and Their Adherence to Data Protection Principles](https://dataskydd.net/sites/default/files/evaluating_websites.pdf)
@@ -47,10 +47,10 @@ Year | Venue | Study
 2019 | APF | [Towards Transparency in Email Tracking](https://link.springer.com/chapter/10.1007/978-3-030-21752-5_2)
 2019 | RAID | [Talon: An Automated Framework for Cross-Device Tracking Detection](https://arxiv.org/pdf/1812.11393.pdf)
 2019 | ACM CCS | [Watching You Watch: The Tracking Ecosystem of Over-the-Top TV Streaming Devices](https://www.princeton.edu/~pmittal/publications/tv-tracking-ccs19.pdf)
-2019 | ACM IMC | [Tales from the Porn: A Comprehensive Privacy Analysis of the Web Porn Ecosystem](http://www1.icsi.berkeley.edu/~narseo/papers/pornweb2019_preprint.pdf)
+2019 | ACM IMC | [Tales from the Porn: A Comprehensive Privacy Analysis of the Web Porn Ecosystem](https://doi.org/10.1145/3355369.3355583) ([preprint](https://web.archive.org/web/20240428124415/http://www1.icsi.berkeley.edu/~narseo/papers/pornweb2019_preprint.pdf))
 2019 | The New York Times | [I Visited 47 Sites. Hundreds of Trackers Followed Me.](https://www.nytimes.com/interactive/2019/08/23/opinion/data-internet-privacy-tracking.html)
 2019 | The Washington Post | [Think you’re anonymous online? A third of popular websites are ‘fingerprinting’ you.](https://www.washingtonpost.com/technology/2019/10/31/think-youre-anonymous-online-third-popular-websites-are-fingerprinting-you/)
-2019 | ESORICS | [Fingerprint surface-based detection of web bot detectors](http://www.open.ou.nl/hjo/papers/ESORICS19.pdf)
+2019 | ESORICS | [Fingerprint surface-based detection of web bot detectors](https://doi.org/10.1007/978-3-030-29962-0_28) ([preprint](https://web.archive.org/web/20221009140148/http://www.open.ou.nl/hjo/papers/ESORICS19.pdf))
 2019 | DPM | [A Study on Subject Data Access in Online Advertising after the GDPR](https://www.researchgate.net/profile/Tobias_Urban2/publication/334706961_A_Study_on_Subject_Data_Access_in_Online_Advertising_after_the_GDPR/links/5d47eff492851cd046a26e5b/A-Study-on-Subject-Data-Access-in-Online-Advertising-after-the-GDPR.pdf)
 2019 | IEEE SPW | [After GDPR, Still Tracking or Not? Understanding Opt-Out States for Online Behavioral Advertising](https://ieeexplore.ieee.org/document/8844599)
 2020 | PETS | [Missed by Filter Lists: Detecting Unknown Third-Party Trackers with Invisible Pixels](https://www.petsymposium.org/2020/files/papers/issue2/popets-2020-0038.pdf)
@@ -59,16 +59,16 @@ Year | Venue | Study
 2020 | PETS | [No boundaries: data exfiltration by third parties embedded on web pages](https://petsymposium.org/2020/files/papers/issue4/popets-2020-0068.pdf)
 2020 | PETS | [In-Depth Evaluation of Redirect Tracking and Link Usage](https://petsymposium.org/2020/files/papers/issue4/popets-2020-0077.pdf)
 2020 | The Web Conference | [The Representativeness of Automated Web Crawls as a Surrogate for Human Browsing](https://research.mozilla.org/files/2020/02/Jestr_vs_crawl_WWW20202.pdf)‡
-2020 | The Web Conference | [Apophanies or Epiphanies? How Crawlers Impact Our Understanding of the Web](https://sparta.cs.uiowa.edu/docs/www-2020.pdf)‡
+2020 | The Web Conference | [Apophanies or Epiphanies? How Crawlers Impact Our Understanding of the Web](https://doi.org/10.1145/3366423.3380113) ([preprint](https://web.archive.org/web/20221225142859/https://sparta.cs.uiowa.edu/docs/www-2020.pdf))‡
 2020 | The Web Conference | [Stop Tracking me Bro! Differential Tracking of User Demographics on Hyper-partisan Websites](https://arxiv.org/pdf/2002.00934.pdf)
 2020 | The Web Conference | [Beyond the Front Page: Measuring Third Party Dynamics in the Field](https://arxiv.org/pdf/2001.10248.pdf)
 2020 | ACM ASIACCS | [Measuring the Impact of the GDPR on Data Sharing in Ad Networks](https://www.researchgate.net/profile/Tobias_Urban2/publication/337487496_Measuring_the_Impact_of_the_GDPR_on_Data_Sharing_in_Ad_Networks/links/5ddbc21792851c1fedafc663/Measuring-the-Impact-of-the-GDPR-on-Data-Sharing-in-Ad-Networks.pdf)
 2020 | arXiv | [Actions speak louder than words: Semi-supervised learning for browser fingerprinting detection](https://arxiv.org/pdf/2003.04463.pdf)
-2020 | PAM | [Extortion or Expansion? An investigation into the costs and consequences of ICANN’s gTLD experiments](https://people.cs.umass.edu/~shahrooz/Shahrooz_gTLDtmPAM202.pdf)
+2020 | PAM | [Extortion or Expansion? An investigation into the costs and consequences of ICANN’s gTLD experiments](https://doi.org/10.1007/978-3-030-44081-7_9) ([preprint](https://web.archive.org/web/20221225142717/https://people.cs.umass.edu/~shahrooz/Shahrooz_gTLDtmPAM202.pdf))
 2020 | Bachelor Thesis, Radboud University | [Design and implementation of a stealthy OpenWPM web scraper](http://www.cs.ru.nl/bachelors-theses/2020/Daniel_Go%C3%9Fen___4751051___Design_and_implementation_of_a_stealthy_OpenWPM_web_scraper.pdf)
 2020 | IWPE | [On Compliance of Cookie Purposes with the Purpose Specification Principle](https://hal.inria.fr/hal-02567022/document)
-2020 | FTC PrivacyCon | [Unaccounted Privacy Violation: A Comparative Analysis of Persistent Identification of Users Across Social Contexts](https://www.ftc.gov/system/files/documents/public_events/1548288/privacycon-2020-ido_sivan-sevilla.pdf)
-2020 | IEEE EuroS&P | [Multi-country Study of Third Party Trackers from Real Browser Histories](https://nms.kcl.ac.uk/nishanth.sastry/pdf/2020/EurpSPMultiCountryStudy.pdf)
+2020 | FTC PrivacyCon | [Unaccounted Privacy Violation: A Comparative Analysis of Persistent Identification of Users Across Social Contexts](https://web.archive.org/web/20261001035910/https://www.ftc.gov/system/files/documents/public_events/1548288/privacycon-2020-ido_sivan-sevilla.pdf)
+2020 | IEEE EuroS&P | [Multi-country Study of Third Party Trackers from Real Browser Histories](https://doi.org/10.1109/eurosp48549.2020.00013) ([preprint](https://web.archive.org/web/20240710190848/https://nms.kcl.ac.uk/nishanth.sastry/pdf/2020/EurpSPMultiCountryStudy.pdf))
 2020 | TMA | [Characterizing CNAME Cloaking-Based Tracking on the Web](https://tma.ifip.org/2020/wp-content/uploads/sites/9/2020/06/tma2020-camera-paper66.pdf)
 2020 | TMA | [Clash of the Trackers: Measuring the Evolution of the Online Tracking Ecosystem](https://tma.ifip.org/2020/wp-content/uploads/sites/9/2020/06/tma2020-camera-paper36.pdf)
 2020 | WEIS | [The Impact of the GDPR on Content Providers](https://weis2020.econinfosec.org/wp-content/uploads/sites/8/2020/06/weis20-final43.pdf)
@@ -76,7 +76,7 @@ Year | Venue | Study
 2020 | Masters Thesis, Concordia University | [A Large-Scale Evaluation of Privacy Practices of Public WiFi Captive Portals](https://users.encs.concordia.ca/~mmannan/student-resources/Thesis-MASc-AliSuzan-2020.pdf)
 2020 | IEEE Globecom | [A machine learning approach for detecting CNAME cloaking-based tracking on the Web](https://arxiv.org/pdf/2009.14330.pdf)
 2021 | NDSS | [Reining in the Web’s Inconsistencies with Site Policy](https://swag.cispa.saarland/papers/calzavara2021reining.pdf)
-2021 | PETS | [Unveiling Web Fingerprinting in the Wild Via Code Mining and Machine Learning](https://petsymposium.org/2021/files/papers/popets-2021-0004.pdf)
+2021 | PETS | [Unveiling Web Fingerprinting in the Wild Via Code Mining and Machine Learning](https://doi.org/10.2478/popets-2021-0004)
 2021 | IEEE S&P | [Fingerprinting the Fingerprinters: Learning to Detect Browser Fingerprinting Behaviors](https://arxiv.org/abs/2008.04480)
 
 
