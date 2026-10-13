@@ -1,6 +1,6 @@
 # Studies using OpenWPM
 
-As of October 2020 OpenWPM has been used in 76 studies.
+As of October 2020 OpenWPM has been used in 74 studies.
 
 Year | Venue | Study
 -----|-------|------
@@ -28,18 +28,17 @@ Year | Venue | Study
 2018 | CALIcon | [Third Party Trackers on Law School Library Websites](https://docs.google.com/presentation/d/1kwJs5Tb2R93a8AQFBq_8oI97QwnhuyaXm7ZuhZhgjBs/edit?usp=sharing)
 2018 | Master Thesis, Delft University of Technology | [Tracking Cookies in the European Union, an Empirical Analysis of the Current Situation](https://repository.tudelft.nl/islandora/object/uuid%3A50d04f83-222d-479e-8ddd-661d2243857a?collection=education)
 2018 | ACM CCS | [The Web’s Sixth Sense: A Study of Scripts Accessing Smartphone Sensors](https://sensor-js.xyz/webs-sixth-sense-ccs18.pdf)
-2018 | ACSAC | [Raising the Bar: Evaluating Origin-wide Security Manifests](https://danielhausknecht.eu/papers/originmanifest_acsac2018.pdf)
+2018 | ACSAC | [Raising the Bar: Evaluating Origin-wide Security Manifests](https://doi.org/10.1145/3274694.3274701)
 2018 | arXiv | [The Unwanted Sharing Economy: An Analysis of Cookie Syncing and User Transparency under GDPR](https://arxiv.org/pdf/1811.08660.pdf)
 2018 | PhD thesis, Princeton University | [Automated discovery of privacy violations on the web](https://senglehardt.com/papers/princeton_phd_dissertation_englehardt.pdf)
 2018 | AINTEC’18 | [Understanding abusive web resources: characteristics and counter-measures of malicious web resources and cryptocurrency mining](https://dl.acm.org/citation.cfm?id=3289174)
-2018 | ACSAC | [Raising the Bar: Evaluating Origin-wide Security Manifests](https://dl.acm.org/citation.cfm?id=3274701)
 2018 | SSRN | [Acquisitions in the Third Party Tracking Industry: Competition and Data Protection Aspects](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3269473)
 2019 |  Communications in Computer and Information Science | [Transparency in Keyword Faceted Search: An Investigation on Google Shopping](https://link.springer.com/chapter/10.1007/978-3-030-11226-4_3)
 2019 | arXiv | [The Price of Free Illegal Live Streaming Services](https://arxiv.org/abs/1901.00579)
 2019 | Advances in Intelligent Systems and Computing | [Usage of HTTPS by Municipal Websites in Portugal](https://link.springer.com/chapter/10.1007/978-3-030-16184-2_16)
 2019 | ConPro | [The Impact of User Location on Cookie Notices (Inside and Outside of the European Union)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3361360)
 2019 | WWW | [Before and After GDPR: The Changes in Third Party Presence at Public and Private European Websites](https://dl.acm.org/citation.cfm?doid=3308558.3313524)
-2019 | IEEE EuroS&P | [TraffickStop: Detecting and Measuring Illicit Traffic Monetization Through Large-Scale DNS Analysis](https://www.luchaoyi.com/uploads/1/2/0/2/120274471/eurosp19.pdf)
+2019 | IEEE EuroS&P | [TraffickStop: Detecting and Measuring Illicit Traffic Monetization Through Large-Scale DNS Analysis](https://doi.org/10.1109/EuroSP.2019.00047)
 2019 | SSRN | [The Market for Data Privacy](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3352175)
 2019 | ACM CSCW | [Dark Patterns at Scale: Findings from a Crawl of 11K Shopping Websites](https://arxiv.org/pdf/1907.07032.pdf)
 2019 | Computer Communications | [A comparison of web privacy protection techniques](https://arxiv.org/pdf/1712.06850.pdf)
@@ -49,7 +48,6 @@ Year | Venue | Study
 2019 | RAID | [Talon: An Automated Framework for Cross-Device Tracking Detection](https://arxiv.org/pdf/1812.11393.pdf)
 2019 | ACM CCS | [Watching You Watch: The Tracking Ecosystem of Over-the-Top TV Streaming Devices](https://www.princeton.edu/~pmittal/publications/tv-tracking-ccs19.pdf)
 2019 | ACM IMC | [Tales from the Porn: A Comprehensive Privacy Analysis of the Web Porn Ecosystem](http://www1.icsi.berkeley.edu/~narseo/papers/pornweb2019_preprint.pdf)
-2019 | IEEE EuroS&P | [TraffickStop: Detecting and Measuring Illicit Traffic Monetization Through Large-scale DNS Analysis](https://www.researchgate.net/profile/Zhou_Li24/publication/332544947_TraffickStop_Detecting_and_Measuring_Illicit_Traffic_Monetization_Through_Large-Scale_DNS_Analysis/links/5cbb9445299bf12097747a16/TraffickStop-Detecting-and-Measuring-Illicit-Traffic-Monetization-Through-Large-Scale-DNS-Analysis.pdf)
 2019 | The New York Times | [I Visited 47 Sites. Hundreds of Trackers Followed Me.](https://www.nytimes.com/interactive/2019/08/23/opinion/data-internet-privacy-tracking.html)
 2019 | The Washington Post | [Think you’re anonymous online? A third of popular websites are ‘fingerprinting’ you.](https://www.washingtonpost.com/technology/2019/10/31/think-youre-anonymous-online-third-popular-websites-are-fingerprinting-you/)
 2019 | ESORICS | [Fingerprint surface-based detection of web bot detectors](http://www.open.ou.nl/hjo/papers/ESORICS19.pdf)
